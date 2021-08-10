@@ -1,7 +1,7 @@
 # shopify-product-no-buy
 Shopify product page showing that it is not available for purchase yet/or coming soon product.
 
-Keep in mind that the name of your 'Templates' and 'Sections' files for product template might be labeled a bit differently, so you may need to change some of the coding.
+Keep in mind that the name of your 'Templates' and 'Sections' files for product template might be labeled a bit differently, so you may need to change the file names and some of the coding to correspong with your shopify theme.
 
 Go to the 'Online Store' option on the left hand sidebar.
 Click on 'Actions' and then the 'Edit Code' option.
