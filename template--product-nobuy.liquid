@@ -18,7 +18,7 @@
 {%- assign featured_image = current_variant.image | default: product.featured_image -%}
 
 {% comment %}
-  Check if the product is on sale and set a variable to be used below.
+Check if the product is on sale and set a variable to be used below.
 {% endcomment %}
 {% assign on_sale = false %}
 {% if current_variant.compare_at_price > current_variant.price %}
